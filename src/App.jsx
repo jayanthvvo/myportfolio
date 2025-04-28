@@ -199,7 +199,7 @@ function App() {
         title: "Dice Rolling App",
         description: "A fun dice rolling app that generates a random dice roll every time you click the button.",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://your-dice-app-link.com" // <-- Replace this with your real link
+        link: "https://github.com/jayanthvvo/projects" // <-- Replace this with your real link
       },
       {
         title: "Rock Paper Scissors App",
