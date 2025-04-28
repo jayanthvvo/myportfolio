@@ -255,7 +255,7 @@ function App() {
   </p>
   
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
-    🔗 LinkedIn: <a href="https://www.linkedin.com/in/your-profile-link" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my LinkedIn</a>
+    🔗 LinkedIn: <a href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my LinkedIn</a>
   </p>
 
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
