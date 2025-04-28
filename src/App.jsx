@@ -140,7 +140,7 @@ function App() {
           <h1 style={styles.heroTitle}>
             Hi,<br />
             I'm <span style={styles.highlight}>Jayanth</span><br />
-            Web Designer
+          
           </h1>
           <button
             type="button"
