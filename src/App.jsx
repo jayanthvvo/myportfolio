@@ -205,7 +205,7 @@ function App() {
         title: "Rock Paper Scissors App",
         description: "A simple Rock Paper Scissors game where you can play against the computer!",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://your-rps-app-link.com" // <-- Replace this with your real link
+        link: "https://github.com/jayanthvvo/projects" // <-- Replace this with your real link
       }
     ].map((project, index) => (
       <div
