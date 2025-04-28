@@ -248,7 +248,7 @@ function App() {
 
 <section id="contact" style={styles.section}>
   <h2 style={styles.sectionTitle}>Contact</h2>
-  <p>Feel free to reach out to me via email or connect with me on LinkedIn.</p>
+  <p>Feel free to reach out to me via email or connect with me on LinkedIn or GitHub.</p>
   
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
     📧 Email: <a href="mailto:jayanthvvo395@gmail.com" style={{ color: '#2f80ed', textDecoration: 'none' }}>jayanthvvo395@gmail.com</a>
@@ -257,7 +257,12 @@ function App() {
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
     🔗 LinkedIn: <a href="https://www.linkedin.com/in/your-profile-link" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my LinkedIn</a>
   </p>
+
+  <p style={{ marginTop: '10px', fontWeight: '500' }}>
+    🛠️ GitHub: <a href="https://github.com/jayanthvvo" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my GitHub</a>
+  </p>
 </section>
+
 
 
 
