@@ -125,7 +125,7 @@ function App() {
   return (
     <div style={styles.app}>
       <header style={styles.header}>
-        <div><strong>Jayanth</strong></div>
+        <div><strong>Rahul</strong></div>
         <nav style={styles.nav}>
           <a href="#" style={styles.activeLink} aria-current="page">Home</a>
           <a href="#about" style={styles.navLink}>About</a>
@@ -154,8 +154,8 @@ function App() {
         </div>
         <div style={styles.heroImage}>
           <img
-            src="/5044d480-3226-48af-931f-947951123ecd.jpeg"
-            alt="Jayanth"
+            src="/5044d480-.jpeg"
+            alt="RAHUL"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
         </div>
@@ -164,7 +164,7 @@ function App() {
       <section id="about" style={styles.section}>
   <h2 style={styles.sectionTitle}>About Me</h2>
   <p>
-    I'm Jayanth — a passionate and detail-oriented developer with strong foundations in both programming and web development.
+    I'm Rahul — a passionate and detail-oriented developer with strong foundations in both programming and web development.
     With hands-on experience in languages like <strong>Java</strong> and <strong>Python</strong>, and a creative touch in <strong>CSS</strong> and <strong>JavaScript</strong>,
     I enjoy building dynamic, interactive, and visually appealing projects.
   </p>
@@ -199,13 +199,13 @@ function App() {
         title: "Dice Rolling App",
         description: "A fun dice rolling app that generates a random dice roll every time you click the button.",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://github.com/jayanthvvo/projects" // <-- Replace this with your real link
+        link: "https://github.com" // <-- Replace this with your real link
       },
       {
         title: "Rock Paper Scissors App",
         description: "A simple Rock Paper Scissors game where you can play against the computer!",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://github.com/jayanthvvo/projects" // <-- Replace this with your real link
+        link: "https://github.com" // <-- Replace this with your real link
       }
     ].map((project, index) => (
       <div
