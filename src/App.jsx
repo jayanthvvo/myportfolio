@@ -251,7 +251,7 @@ function App() {
   <p>Feel free to reach out to me via email or connect with me on LinkedIn or GitHub.</p>
   
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
-    📧 Email: <a href="mailto:jayanthvvo395@gmail.com" style={{ color: '#2f80ed', textDecoration: 'none' }}>jayanthvvo395@gmail.com</a>
+    📧 Email: <a href="mailto:rahulkrp0644@gmail.com" style={{ color: '#2f80ed', textDecoration: 'none' }}>jayanthvvo395@gmail.com</a>
   </p>
   
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
@@ -259,7 +259,7 @@ function App() {
   </p>
 
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
-    🛠️ GitHub: <a href="https://github.com/jayanthvvo" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my GitHub</a>
+    🛠️ GitHub: <a href="https://github.com" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my GitHub</a>
   </p>
 </section>
 
@@ -268,7 +268,7 @@ function App() {
 
 <footer style={styles.footer}>
   <div>
-    © 2025 Jayanth. All rights reserved.
+    © 2025 Rahul. All rights reserved.
   </div>
 </footer>
 
