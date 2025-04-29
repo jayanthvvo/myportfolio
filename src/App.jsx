@@ -5,7 +5,7 @@ function App() {
   const styles = {
     app: {
       fontFamily: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif',
-      backgroundColor: '#f0f6ff',
+      backgroundColor: '#f5f5dc',
       margin: 0,
       padding: 0,
       scrollBehavior: 'smooth'
@@ -89,7 +89,7 @@ function App() {
     },
     section: {
       padding: '120px 60px',
-      backgroundColor: '#fff',
+      backgroundColor: '#e6ffe6',
       marginTop: '40px'
     },
     sectionTitle: {
