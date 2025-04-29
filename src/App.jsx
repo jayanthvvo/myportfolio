@@ -138,8 +138,8 @@ function App() {
       <section style={styles.hero}>
         <div style={styles.heroText}>
           <h1 style={styles.heroTitle}>
-            Hi,<br />
-            I'm <span style={styles.highlight}>Jayanth</span><br />
+            <br />
+            I'm <span style={styles.highlight}>Rahul</span><br />
           
           </h1>
           <button
