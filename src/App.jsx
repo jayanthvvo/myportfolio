@@ -165,12 +165,7 @@ function App() {
   <h2 style={styles.sectionTitle}>About Me</h2>
   <p>
     I'm Rahul — a passionate and detail-oriented developer with strong foundations in both programming and web development.
-    With hands-on experience in languages like <strong>Java</strong> and <strong>Python</strong>, and a creative touch in <strong>CSS</strong> and <strong>JavaScript</strong>,
-    I enjoy building dynamic, interactive, and visually appealing projects.
-  </p>
-  <p>
-    Whether it's crafting beautiful user interfaces with <strong>CSS</strong> or developing logical solutions with <strong>Java</strong> and <strong>Python</strong>,
-    I strive to create work that is efficient, user-friendly, and impactful.
+    
   </p>
   <p>
     I'm constantly exploring new technologies, sharpening my coding skills, and challenging myself with projects like dice games and web-based apps. 
