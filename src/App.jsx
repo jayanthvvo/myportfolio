@@ -145,7 +145,7 @@ function App() {
           <button
             type="button"
             style={styles.button}
-            onClick={() => window.location.href = "https://github.com/jayanthvvo"}
+            onClick={() => window.location.href = "https://github.com"}
             onMouseOver={(e) => e.currentTarget.style.backgroundColor = styles.buttonHover.backgroundColor}
             onMouseOut={(e) => e.currentTarget.style.backgroundColor = styles.button.backgroundColor}
           >
