@@ -199,13 +199,13 @@ function App() {
         title: "Dice Rolling App",
         description: "A fun dice rolling app that generates a random dice roll every time you click the button.",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://github.com" // <-- Replace this with your real link
+        link: "https://" // <-- Replace this with your real link
       },
       {
         title: "Rock Paper Scissors App",
         description: "A simple Rock Paper Scissors game where you can play against the computer!",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://github.com" // <-- Replace this with your real link
+        link: "https://" // <-- Replace this with your real link
       }
     ].map((project, index) => (
       <div
@@ -259,7 +259,7 @@ function App() {
   </p>
 
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
-    🛠️ GitHub: <a href="https://github.com" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my GitHub</a>
+    🛠️ GitHub: <a href="https://" target="_blank" rel="noopener noreferrer" style={{ color: '#2f80ed', textDecoration: 'none' }}>Visit my GitHub</a>
   </p>
 </section>
 
