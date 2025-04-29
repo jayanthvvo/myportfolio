@@ -88,7 +88,7 @@ function App() {
       justifyContent: 'center'
     },
     section: {
-      padding: '120px 60px',
+      padding: '90px 60px',
       backgroundColor: '#e6ffe6',
       marginTop: '40px'
     },
