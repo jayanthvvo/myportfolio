@@ -199,13 +199,13 @@ function App() {
         title: "Dice Rolling App",
         description: "A fun dice rolling app that generates a random dice roll every time you click the button.",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://" // <-- Replace this with your real link
+        link: "" // <-- Replace this with your real link
       },
       {
         title: "Rock Paper Scissors App",
         description: "A simple Rock Paper Scissors game where you can play against the computer!",
         tech: "React, HTML, CSS, JavaScript",
-        link: "https://" // <-- Replace this with your real link
+        link: "" // <-- Replace this with your real link
       }
     ].map((project, index) => (
       <div
@@ -251,7 +251,7 @@ function App() {
   <p>Feel free to reach out to me via email or connect with me on LinkedIn or GitHub.</p>
   
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
-    📧 Email: <a href="mailto:rahulkrp0644@gmail.com" style={{ color: '#2f80ed', textDecoration: 'none' }}>jayanthvvo395@gmail.com</a>
+    📧 Email: <a href="mailto:rahulkrp0644@gmail.com" style={{ color: '#2f80ed', textDecoration: 'none' }}>rahulkrp0644@gmail.com</a>
   </p>
   
   <p style={{ marginTop: '10px', fontWeight: '500' }}>
